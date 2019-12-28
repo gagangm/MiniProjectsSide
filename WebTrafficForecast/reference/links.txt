@@ -1,0 +1,8 @@
+
+
+Dataset location
+https://www.kaggle.com/c/web-traffic-time-series-forecasting
+
+Notebook
+https://www.kaggle.com/zoupet/predictive-analysis-with-different-approaches/notebook
+https://www.kaggle.com/muonneutrino/wikipedia-traffic-data-exploration/data
